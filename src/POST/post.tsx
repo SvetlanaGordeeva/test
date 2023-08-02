@@ -1,6 +1,6 @@
 ﻿import React from 'react';
 
-export const TEST = () => {
+export const POST = () => {
     return (
         <div>
         <h2>User</h2>
